@@ -1,0 +1,310 @@
+[{"stream_name":"stderr","time":2.604589044,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":5.309789749,"data":"[NbConvertApp] Executing notebook with kernel: python3\n"}
+,{"stream_name":"stderr","time":12.5266024,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.526928302,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.527036181,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.527163242,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.527262021,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.527335629,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.527414075,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.527436834,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.527544452,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.527619598,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.527641915,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.527737158,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.527873044,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.527899099999999,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528084332,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.52816573,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528256195,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.528279169,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528400363,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.528492575,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528563886,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.528585135,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528670549,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.528744789,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528867737,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.528958129,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.528981823,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529138192,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529221783,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529294203,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529315743,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529400693,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529469177,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529491459,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529570714,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529658984,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529735638,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529817289,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529903716,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529927197,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529945011,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529951237,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529956685,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529962691,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529967669,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529973354,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.529981234,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529987395,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.5299932,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.529998869,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.530003976,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.530009704,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.530015323,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.530021096,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.530026503,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.530032434,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.53003775,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.530043444,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.530048971,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.530054681,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.53006006,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.530073181,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":12.530079927,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":12.53008582,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.414907941,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415035542,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415196947,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415224754,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415289066,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41531024,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415379668,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41540059,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415454278,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415479466,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415525636,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415543724,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415610476,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415632075,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415696063,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415715127,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415800668,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.415842777,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415907297,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41592853,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.415990439,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.416010487,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.416084707,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.416105555,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.416172394,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41619177,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.416681245,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.416725073,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.416813755,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.416836605,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.416897946,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.416917332,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.416973135,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.416998775,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417052183,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417093586,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417143738,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417198844,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417248896,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417281509,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417332345,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417365913,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417420275,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417452352,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417504175,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417536887,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417587339,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417640705,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417691752,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417724519,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417798095,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417819648,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41788257,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417903021,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.417966314,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.417985991,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418042992,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418085907,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418139905,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418171813,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41822276,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41823145,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41823767099999,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418251593,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418257559,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418264743,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41827114,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418277744,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41828404,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418290813,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418296904,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418303641,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418311608,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418318417,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418324726,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418331695,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418337533,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418344579,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418367217,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418374361,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418380686,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418387572,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418393864,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418400715,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418406793,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418413647,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418419591,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418426678,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418433747,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41844024,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418446391,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418453061,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418459346,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418466281,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41847215,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418479138,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418485599,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418492261,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41850485,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418518421,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41852445,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418531267,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418537763,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418544951,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.4185517,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418558616,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418564662,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41857419,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418579746,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418586484,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418592735,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418599709,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418606133,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418613045,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418619091,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41862572,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418631936,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418638626,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41864479,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418658162,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418665109,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418672071,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418678389,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418685144,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418691478,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418698321,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418704479,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418711132,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418717964,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41872475,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418731197,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418737764,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418744286,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418776155,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418785147,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418793445,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41880033,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41880705,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418813341,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418826801,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418832975,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418839859,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418846464,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418853438,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418859765,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418866706,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418873036,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418879963,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418886804,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418893677,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418900495,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41890749,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418913788,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418920482,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418926771,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418933549,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41894015,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418946478,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418952977,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418960124,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.418972244,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418978752,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.41899087,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.418997655,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.419004225,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41901138,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.419018281,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.41902521,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.419031597,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.419038346,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.419045178,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.419051881,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.419058338,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.419065313,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":172.419079218,"data":"/opt/conda/lib/python3.6/site-packages/sklearn/utils/validation.py:724: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().\n"}
+,{"stream_name":"stderr","time":172.419086632,"data":"  y = column_or_1d(y, warn=True)\n"}
+,{"stream_name":"stderr","time":173.707311023,"data":"[NbConvertApp] Writing 10637998 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":174.573855816,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":176.354232062,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":176.354315549,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.354720542,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.354955302,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.355242746,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.355625848,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.356040323,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.356451428,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.356868871,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.357185126,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.357506558,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.357844436,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.358200833,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.358592564,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.358951463,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.359330733,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.35964076,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.359950637,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.36020485,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.360449,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.360805074,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.361015478,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.36128188,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.361595814,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.361940592,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.362299597,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.362617208,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.362972737,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.363325145,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.363555698,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.363978303,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.364265369,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.364561033,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.36493732,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.365309009,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.365542067,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.36587525,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.36627448,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.366540687,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.366887135,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.367245223,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.367515534,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.367874936,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.368221796,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.368495196,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.368823135,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.369198447,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.369380535,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.369626268,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.369918672,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.370151933,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.370409714,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.370677858,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.371060312,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.371428154,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.371716311,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.372089404,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.372450034,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.372786552,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.373087309,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.37338429,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.37368868,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.37412082,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.374505918,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":176.374897203,"data":"[NbConvertApp] Writing 1195805 bytes to __results__.html\n"}
+]
